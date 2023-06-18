@@ -136,6 +136,10 @@
   letter-spacing: 0.02em;
 }
 
+.footer logo-part {
+  color: var(--light);
+}
+
 /* ----Portfolio-----  */
 
 .sorting-button {
