@@ -136,7 +136,7 @@
   letter-spacing: 0.02em;
 }
 
-.footer logo-part {
+.footer .logo-part {
   color: var(--light);
 }
 
