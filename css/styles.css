@@ -56,6 +56,15 @@
 .address {
   font-style: normal;
 }
+
+.auth-nav {
+  color: var(--text);
+}
+
+.auth-nav:hover,
+.auth-nav:focus {
+  color: var(--pressed-state);
+}
 /* hero */
 .hero-title {
   color: var(--white-background);
