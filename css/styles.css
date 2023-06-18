@@ -118,12 +118,22 @@
 }
 
 .team {
-  background-color: var(--ligh);
+  background-color: var(--light);
+}
+
+.team-card {
+  background-color: var(--white-background);
 }
 
 /* footer */
+
+.footer {
+  background-color: var(--dark);
+}
 .footer-text {
   color: var(--light);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /* ----Portfolio-----  */
