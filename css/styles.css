@@ -35,7 +35,6 @@
 }
 .link {
   text-decoration: none;
-  color: var(--dark);
 }
 .list {
   list-style: none;
